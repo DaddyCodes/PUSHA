@@ -1,5 +1,9 @@
 ### PUSHA
 
+`Pusha is a fully automated advanced penatration command shell made in Python 3.
+Fully equipped with all the right tools to fit any websec sitution you may occur.
+We've done our very best to make this your "one-stop shop" for all your pentesting and red team duties and needs.
+`
 #### The following list below is slight preview but no limited too what you can look forward to.
 
 Modes:
