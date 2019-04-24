@@ -15,6 +15,8 @@ Modes:
 - Directory & files snoop.
 - Subdomain check.
 - Auth page search.
+- Intergrated NMAP & SQLMAP
+- AWS Bucket Check & Planter
 - Ability to re-scan exsisting scans(XML).
 - NMAP - Run any NMAP command line as you normally would.
 - Ability to save reports in any format.
@@ -23,8 +25,12 @@ Modes:
 - Web vulnerability scan.
 (All things vulnerable.)
 - Web crawler
-- (Solo) Cross-Site Script scan.
-- (Solo) SQL Injections & info scan.
+- Cross-Site Script scan.
+- SQL Injections & info scan.
+- XPATH Injection Check
+- Command Injection Check
+- LFI Check
+- Struts Check
 - Content Managemnet scan.
 - Network vulnerability scan.
 - Bruteforce services(Singally of Mass)
